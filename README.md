@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img src="https://raw.githubusercontent.com/srikanthjviru/react-google-map-assessment/master/screenshots/screenshot1.jpg" width="400" alt="Demo" />
+<img src="https://raw.githubusercontent.com/srikanthjviru/react-google-map-assessment/master/screenshots/screenshot2.jpg" width="400" alt="Demo" />
 
 ## Available Scripts
 

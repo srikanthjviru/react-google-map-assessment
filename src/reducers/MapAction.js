@@ -1,0 +1,2 @@
+export const SET_PLACE_RESULTS = '@map/SET_PLACE_RESULTS';
+export const SET_SELECTED_PLACE = '@map/SET_SELECTED_PLACE';
